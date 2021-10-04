@@ -1,10 +1,7 @@
 # BonziWORLD Revived
-[![Discord](https://img.shields.io/discord/854723601295343626.svg?label=Discord)](https://discord.gg/wvvENCJrau)
-[![License: MIT](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 
-If you are a member on The Microsoft Agent Frontier Empire then you most likely would recognize this.
-
-The only known websites that are hosting this Fork are tmafe.com (konnor88, offline) and bonkeyword.tk (ius)
+This project has been archived due to the unhealthy toxicity of the BonziWORLD Community. I no longer want to do anything with this project.
+No bug fixes & security patches will be commited. Use this at your own risk.
 
 All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
 
