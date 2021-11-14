@@ -1,4 +1,4 @@
-# *totally not stolen* BonziWORLD Revived repository
+# the *totally not stolen code* BonziWORLD Revived repository
 
 This project has been archived due to the unhealthy toxicity of the BonziWORLD Community. I no longer want to do anything with this project.
 No bug fixes & security patches will be commited. Use this at your own risk.
