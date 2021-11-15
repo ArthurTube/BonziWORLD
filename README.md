@@ -1,5 +1,7 @@
 # the *totally not stolen code* BonziWORLD Revived repository
 
+Seriously, don't even try to make a BWR server. It won't work (it will just keep reloading).
+
 This project has been archived due to the unhealthy toxicity of the BonziWORLD Community. I no longer want to do anything with this project.
 No bug fixes & security patches will be commited. Use this at your own risk.
 
